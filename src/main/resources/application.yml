@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    driverClassName: oracle.jdbc.OracleDriver
+    url: jdbc:oracle:thin:@cepheus:1760:GMT3
+    username: fgm
+    password: QuBnDq1o
+  jpa:
+    hibernate.ddl-auto: update
+    generate-ddl: true
+    show-sql: true
+    
