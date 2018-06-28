@@ -1,11 +1,10 @@
 spring:
   datasource:
-    driverClassName: oracle.jdbc.OracleDriver
-    url: jdbc:oracle:thin:@cepheus:1760:GMT3
-    username: fgm
-    password: QuBnDq1o
+    driverClassName: org.postgresql.Driver
+    url: jdbc:postgresql://bdd.objectif-informatique.fr:5432/abm
+    username: abm
+    password: ABM2018$03
   jpa:
     hibernate.ddl-auto: update
     generate-ddl: true
     show-sql: true
-    

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: fr.etudiantsdefrance.bakasana.BakasanaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 14.22 s - in fr.etudiantsdefrance.bakasana.BakasanaApplicationTests
