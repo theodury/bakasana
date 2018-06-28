@@ -1,9 +1,0 @@
-fr\etudiantsdefrance\bakasana\ressources\UserRessource.class
-fr\etudiantsdefrance\bakasana\bdd\model\UserModel.class
-fr\etudiantsdefrance\bakasana\exceptions\ExceptionBakasana.class
-fr\etudiantsdefrance\bakasana\BakasanaApplication.class
-fr\etudiantsdefrance\bakasana\model\User.class
-fr\etudiantsdefrance\bakasana\repository\UserRepository.class
-fr\etudiantsdefrance\bakasana\services\UserServices.class
-fr\etudiantsdefrance\bakasana\ServletInitializer.class
-fr\etudiantsdefrance\bakasana\tools\Tools.class
